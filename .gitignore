@@ -1,0 +1,86 @@
+# Ignore virtual env
+vlab/
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+#ignore files and folders
+.ipynb_checkpoints
+.git
+
+
+# Ignore node_modules directory (Node.js dependencies)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories and files
+dist/
+build/
+out/
+
+# Ignore environment variables
+.env
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Java dependencies
+target/
+*.jar
+*.war
+
+# Ignore macOS specific files
+*.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore various archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.xlsx
+*.xls
+*.csv
+
+# Ignore images and binary files
+*.png
+*.pkl
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.pdf
+*.mp4
+*.mp3
+
+# Ignore folders
+demo_env/
+
+# wandb
+wandb

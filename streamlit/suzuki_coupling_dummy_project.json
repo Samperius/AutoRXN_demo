@@ -1,0 +1,330 @@
+{
+  "project_name": "Suzuki Coupling Dummy",
+  "parameters": [
+    {
+      "Name": "Temperature (\u00b0C)",
+      "Type": "Continuous",
+      "Range": "25.0\u2013100.0",
+      "Choices": []
+    },
+    {
+      "Name": "Time (h)",
+      "Type": "Continuous",
+      "Range": "0.5\u201324.0",
+      "Choices": []
+    },
+    {
+      "Name": "Catalyst Loading (mol%)",
+      "Type": "Continuous",
+      "Range": "0.5\u20135.0",
+      "Choices": []
+    },
+    {
+      "Name": "Base",
+      "Type": "Categorical",
+      "Range": "",
+      "Choices": [
+        "K2CO3",
+        "NaOH",
+        "Cs2CO3"
+      ]
+    },
+    {
+      "Name": "Solvent",
+      "Type": "Categorical",
+      "Range": "",
+      "Choices": [
+        "THF",
+        "Toluene",
+        "DMF"
+      ]
+    },
+    {
+      "Name": "Ligand",
+      "Type": "Categorical",
+      "Range": "",
+      "Choices": [
+        "PPh3",
+        "BINAP",
+        "Xantphos"
+      ]
+    }
+  ],
+  "reaction_data": [
+    {
+      "Temperature (\u00b0C)": 51.8,
+      "Time (h)": 3.94,
+      "Catalyst Loading (mol%)": 3.27,
+      "Base": "NaOH",
+      "Solvent": "DMF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 87.2
+    },
+    {
+      "Temperature (\u00b0C)": 48.1,
+      "Time (h)": 15.58,
+      "Catalyst Loading (mol%)": 2.46,
+      "Base": "Cs2CO3",
+      "Solvent": "THF",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 80.6
+    },
+    {
+      "Temperature (\u00b0C)": 94.3,
+      "Time (h)": 10.11,
+      "Catalyst Loading (mol%)": 0.79,
+      "Base": "K2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 80.6
+    },
+    {
+      "Temperature (\u00b0C)": 68.0,
+      "Time (h)": 5.51,
+      "Catalyst Loading (mol%)": 0.78,
+      "Base": "NaOH",
+      "Solvent": "THF",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 97.2
+    },
+    {
+      "Temperature (\u00b0C)": 39.1,
+      "Time (h)": 20.61,
+      "Catalyst Loading (mol%)": 4.89,
+      "Base": "K2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 86.0
+    },
+    {
+      "Temperature (\u00b0C)": 48.4,
+      "Time (h)": 4.28,
+      "Catalyst Loading (mol%)": 4.05,
+      "Base": "K2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 93.0
+    },
+    {
+      "Temperature (\u00b0C)": 36.0,
+      "Time (h)": 2.57,
+      "Catalyst Loading (mol%)": 3.01,
+      "Base": "Cs2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 92.6
+    },
+    {
+      "Temperature (\u00b0C)": 85.4,
+      "Time (h)": 12.09,
+      "Catalyst Loading (mol%)": 4.86,
+      "Base": "NaOH",
+      "Solvent": "DMF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 79.1
+    },
+    {
+      "Temperature (\u00b0C)": 48.0,
+      "Time (h)": 1.09,
+      "Catalyst Loading (mol%)": 2.33,
+      "Base": "Cs2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 79.5
+    },
+    {
+      "Temperature (\u00b0C)": 84.0,
+      "Time (h)": 5.1,
+      "Catalyst Loading (mol%)": 1.94,
+      "Base": "NaOH",
+      "Solvent": "THF",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 91.7
+    },
+    {
+      "Temperature (\u00b0C)": 90.5,
+      "Time (h)": 8.35,
+      "Catalyst Loading (mol%)": 1.77,
+      "Base": "K2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 82.5
+    },
+    {
+      "Temperature (\u00b0C)": 30.6,
+      "Time (h)": 0.78,
+      "Catalyst Loading (mol%)": 3.73,
+      "Base": "K2CO3",
+      "Solvent": "THF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 75.0
+    },
+    {
+      "Temperature (\u00b0C)": 61.8,
+      "Time (h)": 18.16,
+      "Catalyst Loading (mol%)": 3.5,
+      "Base": "Cs2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 83.7
+    },
+    {
+      "Temperature (\u00b0C)": 71.0,
+      "Time (h)": 6.45,
+      "Catalyst Loading (mol%)": 1.6,
+      "Base": "K2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 86.8
+    },
+    {
+      "Temperature (\u00b0C)": 96.1,
+      "Time (h)": 7.56,
+      "Catalyst Loading (mol%)": 3.25,
+      "Base": "K2CO3",
+      "Solvent": "DMF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 82.7
+    },
+    {
+      "Temperature (\u00b0C)": 91.6,
+      "Time (h)": 18.17,
+      "Catalyst Loading (mol%)": 1.17,
+      "Base": "Cs2CO3",
+      "Solvent": "THF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 86.7
+    },
+    {
+      "Temperature (\u00b0C)": 53.7,
+      "Time (h)": 12.66,
+      "Catalyst Loading (mol%)": 3.81,
+      "Base": "Cs2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 83.7
+    },
+    {
+      "Temperature (\u00b0C)": 48.7,
+      "Time (h)": 9.08,
+      "Catalyst Loading (mol%)": 0.8,
+      "Base": "Cs2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 88.0
+    },
+    {
+      "Temperature (\u00b0C)": 66.8,
+      "Time (h)": 5.18,
+      "Catalyst Loading (mol%)": 4.54,
+      "Base": "NaOH",
+      "Solvent": "Toluene",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 83.6
+    },
+    {
+      "Temperature (\u00b0C)": 40.0,
+      "Time (h)": 9.51,
+      "Catalyst Loading (mol%)": 4.28,
+      "Base": "NaOH",
+      "Solvent": "DMF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 89.5
+    },
+    {
+      "Temperature (\u00b0C)": 35.4,
+      "Time (h)": 13.98,
+      "Catalyst Loading (mol%)": 3.88,
+      "Base": "K2CO3",
+      "Solvent": "THF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 87.1
+    },
+    {
+      "Temperature (\u00b0C)": 83.7,
+      "Time (h)": 10.43,
+      "Catalyst Loading (mol%)": 4.93,
+      "Base": "Cs2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 75.5
+    },
+    {
+      "Temperature (\u00b0C)": 71.1,
+      "Time (h)": 11.08,
+      "Catalyst Loading (mol%)": 3.94,
+      "Base": "K2CO3",
+      "Solvent": "DMF",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 80.7
+    },
+    {
+      "Temperature (\u00b0C)": 99.2,
+      "Time (h)": 19.11,
+      "Catalyst Loading (mol%)": 1.2,
+      "Base": "NaOH",
+      "Solvent": "Toluene",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 87.0
+    },
+    {
+      "Temperature (\u00b0C)": 89.0,
+      "Time (h)": 23.35,
+      "Catalyst Loading (mol%)": 3.72,
+      "Base": "NaOH",
+      "Solvent": "THF",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 84.8
+    },
+    {
+      "Temperature (\u00b0C)": 45.2,
+      "Time (h)": 4.78,
+      "Catalyst Loading (mol%)": 3.89,
+      "Base": "K2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 79.7
+    },
+    {
+      "Temperature (\u00b0C)": 66.0,
+      "Time (h)": 8.98,
+      "Catalyst Loading (mol%)": 4.67,
+      "Base": "Cs2CO3",
+      "Solvent": "DMF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 95.9
+    },
+    {
+      "Temperature (\u00b0C)": 73.5,
+      "Time (h)": 13.07,
+      "Catalyst Loading (mol%)": 2.12,
+      "Base": "Cs2CO3",
+      "Solvent": "THF",
+      "Ligand": "PPh3",
+      "Reaction_Yield_%": 80.3
+    },
+    {
+      "Temperature (\u00b0C)": 75.4,
+      "Time (h)": 9.28,
+      "Catalyst Loading (mol%)": 1.24,
+      "Base": "NaOH",
+      "Solvent": "THF",
+      "Ligand": "Xantphos",
+      "Reaction_Yield_%": 71.8
+    },
+    {
+      "Temperature (\u00b0C)": 99.0,
+      "Time (h)": 14.35,
+      "Catalyst Loading (mol%)": 1.22,
+      "Base": "Cs2CO3",
+      "Solvent": "Toluene",
+      "Ligand": "BINAP",
+      "Reaction_Yield_%": 81.5
+    }
+  ],
+  "model_settings": {
+    "optimiser": "Bayesian",
+    "objective": "Maximise Yield",
+    "iterations": 20
+  }
+}
